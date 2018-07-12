@@ -1,0 +1,34 @@
+<?php
+$con=mysqli_connect("localhost","root","","swift");
+
+$a_select1 = isset($_GET['r1']);
+$b_select1 = isset($_GET['r2']);
+$c_select1 = isset($_GET['r3']);
+$d_select1 = isset($_GET['r4']);
+
+if($a_select1 & $b_select1 & $c_select1 & $d_select1)
+{
+
+$a = 1;
+$b = 1;
+$c = 1;
+$d = 1;
+
+$qry = "insert into mainTable values ('','$a','$b','$c','$d')";
+$run = mysqli_query($con,$qry);
+
+
+
+    
+
+
+}
+
+
+
+
+
+
+
+
+?>

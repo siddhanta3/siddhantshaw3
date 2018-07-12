@@ -1,0 +1,120 @@
+body{
+
+background-image:url("home.jpg");
+}
+
+b{
+Font-size:20px;
+}
+
+form{
+
+margin-left:50px;
+margin-top:45px;
+margin-left:30px;
+}
+
+#d1{
+margin-top:20px;
+	margin-left:250px;
+	margin-top:40px;
+		margin-right:200px;
+		border-style:groove;
+		background-color:#898a8c;
+		height:1000px;
+		opacity:0.9;
+		border:1px solid black;
+
+		width:800px;
+		box-shadow:2px 2px 2px 2px black;
+		font-family:serif;
+
+
+}
+
+#f1{
+	height:40px;
+	width:400px;
+	margin-left:70px;
+	margin-top:20px;
+	border-radius:5px;
+	resize:none;
+	text-align:left 10px ;
+	font-size:24px;
+	font-family:serif;
+	}
+
+#f1:hover { 
+    background-color: #545556;
+	color:black ;
+	 
+}
+	#l1{
+	height:40px;
+	width:400px;
+	margin-left:50px;
+	margin-top:20px;
+	border-radius:5px;
+	resize:none;
+	text-align:left 10px ;
+	font-size:24px;
+	font-family:serif;
+	}
+
+#l1:hover { 
+    background-color: #545556;
+	color:black ;
+}
+
+	#fa1{
+	height:40px;
+	width:400px;
+	margin-left:45px;
+	margin-top:20px;
+	border-radius:5px;
+	resize:none;
+	text-align:left 10px ;
+	font-size:24px;
+	font-family:serif;
+	}
+
+#fa1:hover { 
+    background-color: #545556;
+	color:black ;
+	 
+}
+
+#mo1{
+	height:40px;
+	width:400px;
+	margin-left:19px;
+	margin-top:20px;
+	border-radius:5px;
+	resize:none;
+	text-align:left 10px ;
+	font-size:24px;
+	font-family:serif;
+	}
+
+#mo1:hover { 
+    background-color: #545556;
+	color:black ;
+	 
+}
+
+#s1{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 13px 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	}
+	#s1:hover { 
+    background-color: #404142;
+	color:#e0e2e5 ;
+}
